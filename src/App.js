@@ -9,6 +9,10 @@ function App() {
       <li>Solid</li>
       <li>Svelte</li>
       <li>Angular</li>
+      <li>Preact</li>
+      <li>Mithril</li>
+      <li>Stencil</li>
+      <li>NextJS</li>
     </ul>
   );
 }
