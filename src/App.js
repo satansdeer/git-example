@@ -8,14 +8,6 @@ function App() {
       <li>Vue</li>
       <li>Solid</li>
       <li>Svelte</li>
-      <li>Angular</li>
-      <li>Preact</li>
-      <li>Mithril</li>
-      <li>Stencil</li>
-      <li>NextJS</li>
-      <li>Emberjs</li>
-      <li>Backbone</li>
-      <li>JQuery</li>
     </ul>
   );
 }
