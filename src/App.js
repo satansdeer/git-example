@@ -13,6 +13,9 @@ function App() {
       <li>Mithril</li>
       <li>Stencil</li>
       <li>NextJS</li>
+      <li>Emberjs</li>
+      <li>Backbone</li>
+      <li>JQuery</li>
     </ul>
   );
 }
